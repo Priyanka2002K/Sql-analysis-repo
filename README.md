@@ -40,8 +40,8 @@ This project was designed to analyze Pizza Hut sales data to understand:
 
 ## 📈 Sample Insights
 
-* **Total Revenue:** ₹XXX,XXX
-* **Most Expensive Pizza:** *Deluxe Veggie (₹X.XX)*
+* **Total Revenue:** $8,1786
+* **Most Expensive Pizza:** *Deluxe Veggie ($35.95)*
 * **Most Popular Pizza Type (by Revenue):** *BBQ Chicken*
 * **Peak Ordering Hour:** *7 PM – 8 PM*
 
